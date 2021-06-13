@@ -1,7 +1,7 @@
 ### Hello! I'm Parichaya. Pleased to have you here 👋
 
 
-[![Parichaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=parichayawalia&count_private=true&show_icons=true)](https://github.com/parichayawalia/github-readme-stats)
+[![Parichaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=parichayawalia&count_private=true&show_icons=true&theme=dark)](https://github.com/parichayawalia/github-readme-stats)
 
 
 
